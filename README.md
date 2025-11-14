@@ -164,12 +164,12 @@ endmodule
 ![image](https://github.com/user-attachments/assets/742744b0-15e9-4c7c-8e0e-13a77f25673e)
 
 ## Nclaunch Work Library Window
+![Exp 8 Tabular column](https://github.com/user-attachments/assets/e408b933-43e7-425c-85f0-3b00f124ff6f)
 
-![Screenshot 2025-05-21 163301](https://github.com/user-attachments/assets/4dc3ff0b-9533-4acd-98d2-e24df31eb513)
 
 ## Simulation Results
+![Exp 8 simulation waveform](https://github.com/user-attachments/assets/d66f6d67-c160-4fe1-8a32-179099f178f8)
 
-![Screenshot 2025-05-21 163243](https://github.com/user-attachments/assets/e7e22fcd-2e89-478a-9ccf-321bf9d6a07c)
 
 
 ## Results
